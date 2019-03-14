@@ -1,2 +1,2 @@
 # gmail_api
-This is sending email codes on Gmail API.
+This is a code which sends emails with CSV on Gmail API.
